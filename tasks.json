@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "Description": "rachunki",
+      "ID": 0,
+      "Priority": "wysoki"
+    },
+    {
+      "Description": "czytanie",
+      "ID": 1,
+      "Priority": "niski"
+    },
+    {
+      "ID": 4,
+      "Description": "naprawy",
+      "Priority": "niski"
+    },
+    {
+      "ID": 5,
+      "Description": "zad",
+      "Priority": "niski"
+    }
+  ]
+}
